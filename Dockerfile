@@ -1,6 +1,7 @@
 FROM debian
 
-MAINTAINER "Daniel Requena"
+#test
+LABEL MAINTAINER "Daniel Requena"
 
 EXPOSE 80
 
